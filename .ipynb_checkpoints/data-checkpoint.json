@@ -1,0 +1,16 @@
+[
+    {
+        "score": 0.596429229,
+        "source": "slides_week3.pdf",
+        "author": "Hannes Datta",
+        "page": "23",
+        "parts": "JSON data can also be saved! For this, we store the data as JSON objects/dictionaries..."
+    },
+    {
+        "score": 0.550764859,
+        "source": "slides_week2.pdf",
+        "author": "Hannes Datta",
+        "page": "29",
+        "parts": "Writing a complete web scraper..."
+    }
+]
